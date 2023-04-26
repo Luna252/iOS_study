@@ -9,3 +9,4 @@
    * [Collections Type](https://github.com/Luna252/iOS_study/blob/main/swift/Basic-Collection_Types.md)
    * [조건문 (Conditions)](https://github.com/Luna252/iOS_study/blob/main/swift/conditions.md)
    * [반복문 (Loops)](https://github.com/Luna252/iOS_study/blob/main/swift/loops.md)
+   * [함수 (functions)](https://github.com/Luna252/iOS_study/blob/main/swift/functions.md)
