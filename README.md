@@ -5,5 +5,5 @@
 
 ## ✅ List
 1. Swift
-   * Basic - Variable, Type, Constant
-   * Basic - Collections Types
+   * [Basic - Variable, Type, Constant](https://github.com/Luna252/iOS_study/blob/main/swift/Basic-Variable%2CType%2CConstant.md)
+   * [Basic - Collections Types](https://github.com/Luna252/iOS_study/blob/main/swift/Basic-Collection_Types.md)
